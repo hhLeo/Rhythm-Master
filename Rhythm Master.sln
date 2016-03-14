@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{91B0FEAF-C4A6-965A-92C5-9333657BEEF2}") = "Rhythm Master", "Assembly-CSharp.csproj", "{12298B01-A3C5-CC22-816F-AC61CB140216}"
+EndProject
+Project("{91B0FEAF-C4A6-965A-92C5-9333657BEEF2}") = "Rhythm Master", "Assembly-CSharp-Editor.csproj", "{3CC225A5-3FEC-04A4-2A3E-CF15F0DBD9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12298B01-A3C5-CC22-816F-AC61CB140216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12298B01-A3C5-CC22-816F-AC61CB140216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12298B01-A3C5-CC22-816F-AC61CB140216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12298B01-A3C5-CC22-816F-AC61CB140216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC225A5-3FEC-04A4-2A3E-CF15F0DBD9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC225A5-3FEC-04A4-2A3E-CF15F0DBD9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC225A5-3FEC-04A4-2A3E-CF15F0DBD9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC225A5-3FEC-04A4-2A3E-CF15F0DBD9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
